@@ -25,16 +25,20 @@
 }
 
 .skillBarss {
-    margin: 0rem;
+    margin: 0rem auto;
     width: 100vw;
     max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     text-align: left;
     cursor: pointer;
 }
 
-.skillBar {
+.skillBarr {
     display: flex;
-    margin: 1rem;
+    margin: -1rem;
     padding: 1.5rem 2rem;
     border-radius: 0.5rem;
     background: rgb(50, 50, 50);
