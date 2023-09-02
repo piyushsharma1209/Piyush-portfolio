@@ -9,7 +9,7 @@ const Design = () => {
     return (
         <section id="skills">
             <span className="skillTitle">My Designs</span>
-            <div className="skillBars">
+            <div className="skillBarss">
                 <div className="skillBars">
                     <div className="skillBar" onClick={() => handleSkillBarClick('https://xd.adobe.com/view/77b4c6df-d242-4e4d-9341-1afc143a6e0a-22e7/?fullscreen')}>
                         <img src={UIDesign} alt="UIDesign" className="skillBarImg" />

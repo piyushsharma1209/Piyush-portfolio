@@ -15,12 +15,42 @@ export const Works = () => {
             <h2 className="worksTitle">My Portfolio</h2>
             <span className="worksDesc">Here are some of my work that i have done using HTML, CSS, BOOTSTRAP, SCSS, JS & React</span>
             <div className="worksImgs">
-                <img src={Portfolio1} alt="" className="worksImg" />
-                <img src={Portfolio2} alt="" className="worksImg" />
-                <img src={Portfolio3} alt="" className="worksImg" />
-                <img src={Portfolio4} alt="" className="worksImg" />
-                <img src={Portfolio5} alt="" className="worksImg" />
-                <img src={Portfolio6} alt="" className="worksImg" />
+                <a href="https://epic-golick-9d5846.netlify.app/" className="worksImgLink">
+                    <img src={Portfolio1} alt="" className="worksImg" />
+                    <div className="overlay">
+                        <span className="openText">Open</span>
+                    </div>
+                </a>
+                <a href="https://peaceful-euclid-381eff.netlify.app/" className="worksImgLink">
+                    <img src={Portfolio2} alt="" className="worksImg" />
+                    <div className="overlay">
+                        <span className="openText">Open</span>
+                    </div>
+                </a>
+                <a href="https://prismatic-bubblegum-a80871.netlify.app/" className="worksImgLink">
+                    <img src={Portfolio3} alt="" className="worksImg" />
+                    <div className="overlay">
+                        <span className="openText">Open</span>
+                    </div>
+                </a>
+                <a href="https://teal-platypus-d9b7d1.netlify.app/" className="worksImgLink">
+                    <img src={Portfolio4} alt="" className="worksImg" />
+                    <div className="overlay">
+                        <span className="openText">Open</span>
+                    </div>
+                </a>
+                <a href="https://unique-kitsune-11aece.netlify.app/" className="worksImgLink">
+                    <img src={Portfolio5} alt="" className="worksImg" />
+                    <div className="overlay">
+                        <span className="openText">Open</span>
+                    </div>
+                </a>
+                <a href="https://dainty-starship-ee5049.netlify.app/" className="worksImgLink">
+                    <img src={Portfolio6} alt="" className="worksImg" />
+                    <div className="overlay">
+                        <span className="openText">Open</span>
+                    </div>
+                </a>
             </div>
         </section>
     )
