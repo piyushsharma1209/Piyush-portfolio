@@ -39,16 +39,16 @@ export const Works = () => {
                         <span className="openText">Open</span>
                     </div>
                 </a>
-                <a href="https://unique-kitsune-11aece.netlify.app/" className="worksImgLink">
+                <a href="https://github.com/piyushsharma1209/Piyo-shop-ca" className="worksImgLink">
                     <img src={Portfolio5} alt="" className="worksImg" />
                     <div className="overlay">
-                        <span className="openText">Open</span>
+                        <span className="openText">Javascript Framework</span>
                     </div>
                 </a>
-                <a href="https://dainty-starship-ee5049.netlify.app/" className="worksImgLink">
+                <a href="https://github.com/Noroff-FEU-Resits/semester-project-2-resit-piyushsharma1209" className="worksImgLink">
                     <img src={Portfolio6} alt="" className="worksImg" />
                     <div className="overlay">
-                        <span className="openText">Open</span>
+                        <span className="openText">Semester Project 2</span>
                     </div>
                 </a>
             </div>

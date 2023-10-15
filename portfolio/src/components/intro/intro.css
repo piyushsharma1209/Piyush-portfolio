@@ -88,5 +88,6 @@
 
     .introContent {
         font-size: 10vw;
+        max-width: 75vw;
     }
 }
