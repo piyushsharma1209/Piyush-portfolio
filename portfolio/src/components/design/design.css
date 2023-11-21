@@ -51,9 +51,15 @@
     margin-right: 2rem;
 }
 
-.skillBarText>p {
+.skillBarText {
     font-size: 0.9rem;
     font-weight: 200;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.skillBarText:hover {
+    color: yellow;
 }
 
 

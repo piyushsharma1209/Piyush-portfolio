@@ -8,7 +8,7 @@ const Design = () => {
     };
     return (
         <section id="skills">
-            <span className="skillTitle">My Designs (Click to open)</span>
+            <span className="skillTitle">My Designs</span>
             <div className="skillBarss">
                 <div className="skillBars">
                     <div className="skillBarr" onClick={() => handleSkillBarClick('https://xd.adobe.com/view/77b4c6df-d242-4e4d-9341-1afc143a6e0a-22e7/?fullscreen')}>

@@ -19,7 +19,7 @@ const Intro = () => {
             <div className="introContent">
                 <span className="hello">Hello</span>
                 <span className="introText">I'm <span className="introName">Piyush</span> <br />Front-end devloper</span>
-                <p className="introPara">I am a newly graduated front-end devloper with great <br /> skills in coding and designing.</p>
+                <p className="introPara">I am a newly graduated front-end devloper with <br /> skills in coding and designing.</p>
                 {/* Add an onClick event handler to the button */}
                 <button className="btn" onClick={handleCVButtonClick}>
                     <img src={btnImg} alt="Hire Me" className="btnImg" />My CV
