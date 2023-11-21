@@ -10,7 +10,7 @@ const Skills = () => {
     return (
         <section id="skills">
             <span className="skillTitle">About Me</span>
-            <span className="skillDesc">Jeg heter Piyush Sharma, og jeg er nyutdannet front-end utvikling. Jeg er svært motivert for å begynne karrieren min og ønsker å bidra til å utvikle innovative løsninger hos dere. <br /><br />
+            <span className="skillDesc">Jeg heter Piyush Sharma, og jeg er nylig utdannet front-end utvikler. Jeg er svært motivert for å begynne karrieren min og ønsker å bidra til å utvikle innovative løsninger hos dere. <br /><br />
 
                 Jeg har allerede tilegnet meg betydelig kunnskap innen webutvikling og har fått erfaring med flere verktøy og teknologier, som HTML, CSS, JavaScript, React, APIer og Git. Gjennom skoleprosjekter og egne prosjekter har jeg jobbet med å utvikle nettsider og applikasjoner, og jeg har alltid vært nysgjerrig på nye trender og teknologier innen dette feltet. <br /><br />
 
